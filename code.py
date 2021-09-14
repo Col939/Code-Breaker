@@ -15,6 +15,7 @@ def mainGame():
     print("Number 1 plus Number 2 is " + str( int(code[0]) + int(code[1]) ) )
     print("Number 3 minus number 2 is " + str( int(code[2]) - int(code[1]) ) )
     print("Number 4 times Number 3 is " + str( int(code[3]) * int(code[2]) ) )
+    print("Number 1 times Number 2 is " + str( int(code[0]) * int(code[1]) ) )
   
   i = input("Code: ")
   
