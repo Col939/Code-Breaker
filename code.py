@@ -20,7 +20,7 @@ def mainGame():
   
   i = input("Code: ")
   
-  if(str(i) == str(code)):
+  if(int(i) == int(code)):
     print("You got it!")
   print(code)
   
